@@ -1,4 +1,4 @@
-![My photo](https://static.wikia.nocookie.net/fallout/images/5/53/38_Paradigm_of_Humanity.png/revision/latest/scale-to-width-down/240?cb=20100325144844)
+![My photo](https://static.wikia.nocookie.net/fallout/images/5/53/38_Paradigm_of_Humanity.png)
 ## Aliaksei Tsetserukou
 ### Contact Info :
 Homyel, Belarus, +375291789228, al_t@tut.by
@@ -22,4 +22,4 @@ fun main(args : Array<String>) {
 }
 ```
 ### Education :
-@rolling-scopes-school			2021, course listener
+ @rolling-scopes-school			2021, course listener
