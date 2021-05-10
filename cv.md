@@ -1,4 +1,4 @@
-![My photo](https://static.wikia.nocookie.net/fallout/images/5/53/38_Paradigm_of_Humanity.png/revision/latest/scale-to-width-down/240?cb=20100325144844
+![My photo](https://static.wikia.nocookie.net/fallout/images/5/53/38_Paradigm_of_Humanity.png/revision/latest/scale-to-width-down/240?cb=20100325144844)
 ## Aliaksei Tsetserukou
 ### Contact Info :
 Homyel, Belarus, +375291789228, al_t@tut.by
@@ -13,6 +13,7 @@ Able to grasp new concepts quickly. I am seeking a competitive and challenging e
     [x] Object-oriented design, 
     [x] Git/Github, 
     [x] Android Studio.
+
 Worked extensively with Android and the SDK frameworks. Here is a part of my latest project:
 ```kotlin
 // Hello World Program
