@@ -23,4 +23,5 @@ fun main(args : Array<String>) {
 }
 ```
 ### Education :
- @rolling-scopes-school		2022, course listener
+@rolling-scopes-school		2022, course listener
+
