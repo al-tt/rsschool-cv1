@@ -12,7 +12,8 @@ Able to grasp new concepts quickly. I am seeking a competitive and challenging e
     [x] SQL, 
     [x] Object-oriented design, 
     [x] Git/Github, 
-    [x] Android Studio.
+    [x] Android Studio,
+    [x] TypeScript.
 
 Worked extensively with Android and the SDK frameworks. Here is a part of my latest project:
 ```kotlin
